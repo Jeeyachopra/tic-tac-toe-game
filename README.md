@@ -29,7 +29,7 @@ Click on an empty cell to place your symbol.
 Get three symbols in a row, column, or diagonal to win.
 If all cells are filled and nobody wins, the game ends in a draw.
 
-##AUTHOR
+##AUTHOR - 
 Jeeya
 
 
