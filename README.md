@@ -15,3 +15,24 @@ An interactive Tic-Tac-Toe game developed in python using tkinter that allows us
 - Python
 - Tkinter
 - Random Module
+
+## How to Run
+
+1. Clone this repository
+2. Open the project folder
+3. Run:
+python tic-tac-toe.py
+
+##Game Rules
+Choose either Player vs Player or Player vs Computer mode.
+Click on an empty cell to place your symbol.
+Get three symbols in a row, column, or diagonal to win.
+If all cells are filled and nobody wins, the game ends in a draw.
+
+##AUTHOR
+Jeeya
+
+
+   
+
+
